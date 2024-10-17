@@ -1,0 +1,19 @@
+{
+  "name": "script-scraper",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "download": "node download",
+    "upload": "node upload"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "jssoup": "^0.0.15",
+    "mongodb": "^6.9.0",
+    "node-fetch": "^3.3.2"
+  }
+}

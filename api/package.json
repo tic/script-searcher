@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "lambda.js",
+  "scripts": {
+    "dev": "nodemon test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.9.0"
+  }
+}
